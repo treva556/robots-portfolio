@@ -3,7 +3,7 @@ import React from "react";
 function Main() {
   return (
     <div className="grid grid-cols-2 gap-4">
-        <div className="box-border h-64 w-110 p-4 items-center">
+        <div className="box-border h-64 w-110 p-4 content-center">
 
             <p className=" text-center">pic1</p>
 
